@@ -1,0 +1,1219 @@
+[07-Aug-2019 13:33:56 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:33:56 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:34:18 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:35:32 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:35:35 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:35:39 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:39:19 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:39:20 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:39:29 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:39:30 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:41:31 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:41:31 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:42:15 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:42:16 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:42:18 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:42:19 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:42:32 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:42:33 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:51:40 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:51:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/login.php:13) in /home2/fabio/cehuanuco.org.pe/intranet/login.php on line 33
+[07-Aug-2019 13:52:42 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:52:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/login.php:13) in /home2/fabio/cehuanuco.org.pe/intranet/login.php on line 33
+[07-Aug-2019 13:53:46 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:53:47 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:54:43 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:54:52 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:54:55 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:55:07 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:55:07 UTC] PHP Warning:  require_once(lib/tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home2/fabio/cehuanuco.org.pe/intranet/imprimirconstancia.php on line 28
+[07-Aug-2019 13:55:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'lib/tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home2/fabio/cehuanuco.org.pe/intranet/imprimirconstancia.php on line 28
+[07-Aug-2019 13:55:17 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:55:21 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:55:24 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:55:34 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:55:44 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:55:49 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:55:49 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:56:44 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 13:56:44 UTC] PHP Warning:  require_once(lib/tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home2/fabio/cehuanuco.org.pe/intranet/imprimirconstancia.php on line 28
+[07-Aug-2019 13:56:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'lib/tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home2/fabio/cehuanuco.org.pe/intranet/imprimirconstancia.php on line 28
+[07-Aug-2019 20:06:31 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 20:06:32 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 20:06:35 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Aug-2019 20:06:36 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Aug-2019 02:36:07 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Aug-2019 02:36:09 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Aug-2019 02:36:34 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Aug-2019 02:36:35 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Aug-2019 02:38:50 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Aug-2019 02:38:51 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Aug-2019 02:39:19 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Aug-2019 02:39:20 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Aug-2019 02:43:42 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Aug-2019 02:43:43 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Aug-2019 02:43:56 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[08-Aug-2019 02:43:57 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Feb-2020 15:01:43 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Feb-2020 15:01:45 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Feb-2020 15:03:59 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Feb-2020 15:04:04 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Feb-2020 15:04:06 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Feb-2020 15:04:52 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Feb-2020 15:04:53 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Feb-2020 15:04:56 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[07-Feb-2020 12:00:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[07-Feb-2020 12:01:07 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[27-Nov-2020 20:03:57 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[28-Nov-2020 01:00:59 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[28-Nov-2020 19:16:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_nohabilitados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[28-Nov-2020 20:08:05 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[29-Nov-2020 01:48:02 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_colegiados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[29-Nov-2020 07:25:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_nohabilitados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[29-Nov-2020 07:25:39 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_nohabilitados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[29-Nov-2020 09:15:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_nohabilitados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[29-Nov-2020 09:35:34 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_nombrados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[29-Nov-2020 10:34:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_nombrados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[29-Nov-2020 20:04:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[29-Nov-2020 20:17:02 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[29-Nov-2020 21:00:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_colegiados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[30-Nov-2020 03:46:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[30-Nov-2020 06:04:02 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[30-Nov-2020 17:25:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[30-Nov-2020 20:11:03 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[30-Nov-2020 21:40:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 00:25:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_nombrados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 05:53:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_colegiados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 06:31:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 14:45:08 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 17:04:54 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 17:06:21 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 17:08:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 17:08:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 17:12:56 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 17:14:16 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_nombrados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 17:15:30 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 17:23:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 17:23:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 17:30:35 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:2
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 2
+[01-Dec-2020 17:31:02 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:2
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 2
+[01-Dec-2020 17:31:14 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:2
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 2
+[01-Dec-2020 17:31:42 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 19:15:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 19:40:09 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_nombrados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 20:06:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 21:12:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_nombrados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[01-Dec-2020 23:04:51 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_nombrados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 01:05:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_nombrados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 01:21:18 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_nombrados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 03:01:23 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_nombrados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 05:15:15 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/listado_nombrados.php(42): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 08:05:52 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 08:06:04 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 08:06:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 08:11:44 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 08:37:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:01:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:02:55 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:02:57 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:06:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 09:08:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:2
+Stack trace:
+#0 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 2
+[02-Dec-2020 09:09:41 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:14:47 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:14:58 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:15:05 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PDO' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:15:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 09:17:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:2
+Stack trace:
+#0 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 2
+[02-Dec-2020 09:18:25 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:21:33 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:22:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:22:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:24:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:25:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:29:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:31:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:31:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:31:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:31:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:31:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:35:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:38:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:41:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:42:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 3
+[02-Dec-2020 09:42:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 09:42:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 33
+[02-Dec-2020 09:43:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 09:47:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 09:55:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 10:05:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include('/home2/fabio/ce...')
+#2 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#3 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 10:05:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 10:12:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 10:32:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 10:36:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 10:43:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include('/home2/fabio/ce...')
+#2 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#3 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 10:48:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 10:51:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 16:51:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Dec-2020 10:51:57 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[02-Dec-2020 10:51:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 17:05:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Dec-2020 11:05:31 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[02-Dec-2020 11:05:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 17:15:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Dec-2020 11:15:40 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[02-Dec-2020 11:15:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/interfaz_colegiado.php(27): include('/home2/fabio/ce...')
+#2 /home2/fabio/cehuanuco.org.pe/intranet/index.php(23): include('/home2/fabio/ce...')
+#3 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 17:15:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Dec-2020 11:15:41 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[02-Dec-2020 17:15:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Dec-2020 11:15:46 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[02-Dec-2020 11:15:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 17:16:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Dec-2020 11:16:32 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[02-Dec-2020 11:16:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 18:26:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Dec-2020 12:26:48 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[02-Dec-2020 12:26:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 18:26:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Dec-2020 12:26:55 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[02-Dec-2020 18:27:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Dec-2020 12:27:01 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[02-Dec-2020 12:27:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 /home2/fabio/cehuanuco.org.pe/intranet/login.php(5): include('/home2/fabio/ce...')
+#2 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 18:27:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Dec-2020 12:27:03 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[02-Dec-2020 18:29:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Dec-2020 12:29:36 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[02-Dec-2020 12:29:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 18:30:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Dec-2020 12:30:33 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[02-Dec-2020 12:30:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 18:49:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'ixed.7.1.lin' (tried: /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin: undefined symbol: _zval_ptr_dtor), /opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so (/opt/php71/lib/php/extensions/no-debug-non-zts-20160303/ixed.7.1.lin.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[02-Dec-2020 12:49:18 America/Chicago] PHP Deprecated:  Directive 'allow_url_include' is deprecated in Unknown on line 0
+[02-Dec-2020 12:49:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php:24
+Stack trace:
+#0 /home2/fabio/cehuanuco.org.pe/intranet/conexion.php(45): Conectarse()
+#1 {main}
+  thrown in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 12:54:11 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 12:54:50 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 12:54:55 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 12:55:08 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 12:55:11 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 12:56:22 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 12:56:34 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 13:02:26 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 13:02:41 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 13:03:09 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 13:03:24 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 13:03:32 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 13:03:51 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 13:15:41 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 13:16:09 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 13:16:28 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 13:46:02 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 13:46:50 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 13:50:18 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 15:21:03 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 15:28:25 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 16:46:32 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 16:46:39 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 16:48:22 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 17:16:48 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 20:01:42 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[02-Dec-2020 21:23:29 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home2/fabio/cehuanuco.org.pe/intranet/conexion.php on line 24
+[07-Dec-2020 18:57:31 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[07-Dec-2020 18:57:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[07-Dec-2020 18:59:34 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[07-Dec-2020 18:59:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[07-Dec-2020 19:00:53 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[07-Dec-2020 19:00:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[07-Dec-2020 19:08:32 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[07-Dec-2020 19:08:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[07-Dec-2020 19:08:35 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[07-Dec-2020 19:08:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[07-Dec-2020 19:12:39 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[07-Dec-2020 19:12:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[07-Dec-2020 19:13:26 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[07-Dec-2020 19:13:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[07-Dec-2020 19:15:39 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[07-Dec-2020 19:15:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[07-Dec-2020 19:16:47 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[07-Dec-2020 19:16:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[07-Dec-2020 19:22:21 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[07-Dec-2020 19:22:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[07-Dec-2020 19:28:47 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[07-Dec-2020 19:28:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[08-Dec-2020 08:18:35 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[08-Dec-2020 08:18:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[08-Dec-2020 08:46:38 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[08-Dec-2020 08:46:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[08-Dec-2020 08:47:56 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[08-Dec-2020 08:47:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[08-Dec-2020 09:56:25 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[08-Dec-2020 09:56:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[08-Dec-2020 15:45:54 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[08-Dec-2020 15:45:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[08-Dec-2020 15:58:36 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[08-Dec-2020 15:58:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[08-Dec-2020 16:26:29 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[08-Dec-2020 16:26:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[08-Dec-2020 17:43:45 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[08-Dec-2020 17:43:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[08-Dec-2020 17:43:47 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[08-Dec-2020 17:43:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[08-Dec-2020 17:43:54 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[08-Dec-2020 17:43:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[08-Dec-2020 17:44:18 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadolist.php on line 3
+[08-Dec-2020 17:44:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadolist.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadolist.php on line 7
+[08-Dec-2020 17:47:18 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[08-Dec-2020 17:47:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[08-Dec-2020 17:48:00 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[08-Dec-2020 17:48:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[08-Dec-2020 17:51:23 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadover.php on line 3
+[08-Dec-2020 17:51:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadover.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadover.php on line 8
+[08-Dec-2020 17:55:04 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadover.php on line 3
+[08-Dec-2020 17:55:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadover.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadover.php on line 8
+[08-Dec-2020 17:55:36 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[08-Dec-2020 17:55:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[08-Dec-2020 17:55:37 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[08-Dec-2020 17:55:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[08-Dec-2020 17:57:38 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 3
+[08-Dec-2020 17:57:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicado.php on line 7
+[08-Dec-2020 18:14:54 America/Chicago] PHP Warning:  move_uploaded_file(/home2/fabio/cehuanuco.org.pe/cephuanucointranet/comunicados/katyjara.jpg): failed to open stream: No such file or directory in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 251
+[08-Dec-2020 18:14:54 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJT5ewd' to '/home2/fabio/cehuanuco.org.pe/cephuanucointranet/comunicados/katyjara.jpg' in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 251
+[10-Dec-2020 10:35:48 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[10-Dec-2020 10:35:48 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[10-Dec-2020 10:35:48 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[10-Dec-2020 10:35:48 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[10-Dec-2020 10:35:48 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[10-Dec-2020 10:35:48 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[10-Dec-2020 10:35:48 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[12-Dec-2020 12:03:02 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[12-Dec-2020 12:03:02 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[12-Dec-2020 12:03:02 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[12-Dec-2020 12:03:02 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[12-Dec-2020 12:03:03 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[12-Dec-2020 12:03:03 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[12-Dec-2020 12:03:03 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[13-Dec-2020 15:40:09 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[13-Dec-2020 15:40:09 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[13-Dec-2020 15:40:09 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[13-Dec-2020 15:40:09 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[13-Dec-2020 15:40:10 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[13-Dec-2020 15:40:10 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[13-Dec-2020 15:40:10 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[14-Dec-2020 09:22:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:436) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 440
+[14-Dec-2020 09:30:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:436) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 440
+[14-Dec-2020 09:35:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:436) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 440
+[14-Dec-2020 17:41:05 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[14-Dec-2020 17:41:05 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[14-Dec-2020 17:41:05 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[14-Dec-2020 17:41:05 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[14-Dec-2020 17:41:05 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[14-Dec-2020 17:41:05 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[14-Dec-2020 17:41:05 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[14-Dec-2020 18:33:43 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[14-Dec-2020 18:33:43 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[14-Dec-2020 18:33:43 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[14-Dec-2020 18:33:43 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[14-Dec-2020 18:33:44 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[14-Dec-2020 18:33:44 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[14-Dec-2020 18:33:44 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[14-Dec-2020 18:43:29 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[14-Dec-2020 18:43:29 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[14-Dec-2020 18:43:29 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[14-Dec-2020 18:43:29 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[14-Dec-2020 18:43:29 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[14-Dec-2020 18:43:29 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[14-Dec-2020 18:43:29 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[14-Dec-2020 18:47:10 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[14-Dec-2020 18:47:10 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[14-Dec-2020 18:47:10 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[14-Dec-2020 18:47:10 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[14-Dec-2020 18:47:10 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[14-Dec-2020 18:47:10 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[14-Dec-2020 18:47:10 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[14-Dec-2020 21:08:22 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[14-Dec-2020 21:08:22 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[14-Dec-2020 21:08:22 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[14-Dec-2020 21:08:22 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[14-Dec-2020 21:08:22 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[14-Dec-2020 21:08:22 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[14-Dec-2020 21:08:22 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[15-Dec-2020 09:26:04 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[15-Dec-2020 09:26:04 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[15-Dec-2020 09:26:04 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[15-Dec-2020 09:26:04 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[15-Dec-2020 09:26:04 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[15-Dec-2020 09:26:04 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[15-Dec-2020 09:26:04 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[15-Dec-2020 09:30:52 America/Chicago] PHP Warning:  move_uploaded_file(/home2/fabio/cehuanuco.org.pe/cephuanucointranet/partido/128701090_418368352876752_352668527856036650_o.jpg): failed to open stream: No such file or directory in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 497
+[15-Dec-2020 09:30:53 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpICkgoo' to '/home2/fabio/cehuanuco.org.pe/cephuanucointranet/partido/128701090_418368352876752_352668527856036650_o.jpg' in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 497
+[15-Dec-2020 09:30:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:500) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 504
+[15-Dec-2020 09:34:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:500) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 504
+[15-Dec-2020 09:34:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:500) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 504
+[15-Dec-2020 09:37:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:436) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 440
+[15-Dec-2020 09:37:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:500) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 504
+[15-Dec-2020 09:45:34 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[15-Dec-2020 09:45:34 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[15-Dec-2020 09:45:34 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[15-Dec-2020 09:45:34 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[15-Dec-2020 09:45:35 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[15-Dec-2020 09:45:35 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[15-Dec-2020 09:45:35 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[15-Dec-2020 09:50:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:436) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 440
+[15-Dec-2020 09:53:09 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[15-Dec-2020 09:53:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[15-Dec-2020 10:08:33 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[15-Dec-2020 10:08:33 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[15-Dec-2020 10:08:33 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[15-Dec-2020 10:08:33 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[15-Dec-2020 10:08:33 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[15-Dec-2020 10:08:33 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[15-Dec-2020 10:08:33 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[17-Dec-2020 10:07:12 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[17-Dec-2020 10:07:12 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[17-Dec-2020 10:07:12 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[17-Dec-2020 10:07:12 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[17-Dec-2020 10:07:13 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[17-Dec-2020 10:07:13 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[17-Dec-2020 10:07:13 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[17-Dec-2020 11:37:06 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[17-Dec-2020 11:37:06 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[17-Dec-2020 11:37:06 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[17-Dec-2020 11:37:06 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[17-Dec-2020 11:37:06 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[17-Dec-2020 11:37:06 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[17-Dec-2020 11:37:06 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[21-Dec-2020 11:39:59 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[21-Dec-2020 11:39:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[21-Dec-2020 13:05:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:513) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 517
+[21-Dec-2020 13:33:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:513) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 517
+[06-Jan-2021 08:53:10 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[06-Jan-2021 08:53:10 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[06-Jan-2021 08:53:10 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[06-Jan-2021 08:53:10 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[06-Jan-2021 08:53:10 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[06-Jan-2021 08:53:10 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[06-Jan-2021 08:53:10 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[06-Jan-2021 09:40:05 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[06-Jan-2021 09:40:05 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[06-Jan-2021 09:40:05 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[06-Jan-2021 09:40:05 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[06-Jan-2021 09:40:05 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[06-Jan-2021 09:40:05 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[06-Jan-2021 09:40:05 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[06-Jan-2021 12:01:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:436) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 440
+[07-Jan-2021 09:11:59 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47319471&amp;m=d): failed to open stream: HTTP request failed! in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[07-Jan-2021 10:53:48 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[07-Jan-2021 10:53:48 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[07-Jan-2021 10:53:48 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[07-Jan-2021 10:53:48 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[07-Jan-2021 10:53:48 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[07-Jan-2021 10:53:48 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[07-Jan-2021 10:53:48 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[08-Jan-2021 16:56:54 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[08-Jan-2021 16:56:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[08-Jan-2021 16:57:03 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[08-Jan-2021 16:57:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[11-Jan-2021 10:32:58 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[11-Jan-2021 10:32:58 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[11-Jan-2021 10:32:58 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[11-Jan-2021 10:32:58 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[11-Jan-2021 10:32:58 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[11-Jan-2021 10:32:58 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[11-Jan-2021 10:32:58 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[11-Jan-2021 11:44:19 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[11-Jan-2021 11:44:19 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[11-Jan-2021 11:44:19 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[11-Jan-2021 11:44:19 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[11-Jan-2021 11:44:19 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[11-Jan-2021 11:44:19 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[11-Jan-2021 11:44:20 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[13-Jan-2021 11:14:25 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[13-Jan-2021 11:14:25 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[13-Jan-2021 11:14:25 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[13-Jan-2021 11:14:25 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[13-Jan-2021 11:14:25 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[13-Jan-2021 11:14:25 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[13-Jan-2021 11:14:25 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[14-Jan-2021 11:25:32 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[14-Jan-2021 11:25:32 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[14-Jan-2021 11:25:32 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[14-Jan-2021 11:25:32 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[14-Jan-2021 11:25:32 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[14-Jan-2021 11:25:32 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[14-Jan-2021 11:25:32 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[14-Jan-2021 12:10:03 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[14-Jan-2021 12:10:03 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[14-Jan-2021 12:10:03 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[14-Jan-2021 12:10:03 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[14-Jan-2021 12:10:03 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[14-Jan-2021 12:10:03 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[14-Jan-2021 12:10:03 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[14-Jan-2021 15:23:11 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[14-Jan-2021 15:23:11 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[14-Jan-2021 15:23:11 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[14-Jan-2021 15:23:11 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[14-Jan-2021 15:23:12 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[14-Jan-2021 15:23:12 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[14-Jan-2021 15:23:12 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[18-Jan-2021 10:32:01 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[18-Jan-2021 10:32:01 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[18-Jan-2021 10:32:01 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[18-Jan-2021 10:32:01 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[18-Jan-2021 10:32:01 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[18-Jan-2021 10:32:01 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[18-Jan-2021 10:32:01 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[28-Jan-2021 10:46:03 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[28-Jan-2021 10:46:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[28-Jan-2021 11:58:31 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[28-Jan-2021 11:58:31 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[28-Jan-2021 11:58:31 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[28-Jan-2021 11:58:31 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[28-Jan-2021 11:58:32 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[28-Jan-2021 11:58:32 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[28-Jan-2021 11:58:32 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[01-Feb-2021 14:53:43 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[01-Feb-2021 14:53:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[02-Feb-2021 10:35:46 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:36:00 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:36:22 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:36:25 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:36:29 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:36:38 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:36:47 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:37:04 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:37:19 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:37:22 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:37:25 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:37:29 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:37:32 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:37:35 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:37:38 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:37:41 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:37:50 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:37:53 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:37:56 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:37:59 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:02 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:05 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:08 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:11 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:18 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:21 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:24 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:27 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:30 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:33 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:36 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:39 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:42 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:45 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:48 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:51 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:54 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:38:57 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:39:00 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:39:03 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47093516&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:40:19 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=46892672&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:40:25 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=46892672&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:40:28 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=46892672&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:40:31 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=46892672&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:40:34 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=46892672&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:40:37 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=46892672&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:40:40 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=46892672&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:40:44 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=46892672&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:40:47 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=46892672&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:43:27 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=75904419&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:43:30 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=75904419&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:43:33 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=75904419&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:43:49 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=75904419&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:43:52 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=75904419&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:45:28 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=44443328&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:45:31 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=44443328&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:45:34 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=44443328&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:46:06 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=44443328&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:47:37 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47901618&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:47:43 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47901618&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:47:46 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47901618&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:47:49 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47901618&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:47:52 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47901618&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:47:55 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47901618&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:48:04 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47901618&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:48:20 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47901618&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:48:23 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47901618&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:48:26 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47901618&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:48:29 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47901618&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:48:38 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47901618&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:48:41 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47901618&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:48:45 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47901618&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:48:48 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47901618&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:48:51 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=47901618&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:50:18 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=70765833&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:50:34 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=70765833&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:50:37 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=70765833&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:50:40 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=70765833&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:50:43 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=70765833&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:50:46 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=70765833&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:50:49 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=70765833&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:51:05 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=70765833&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:51:14 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=70765833&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[02-Feb-2021 10:52:52 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=70772407&amp;m=d): failed to open stream: No route to host in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[03-Feb-2021 09:37:18 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[03-Feb-2021 09:37:18 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[03-Feb-2021 09:37:18 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[03-Feb-2021 09:37:18 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[03-Feb-2021 09:37:18 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[03-Feb-2021 09:37:18 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[03-Feb-2021 09:37:18 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[03-Feb-2021 09:39:01 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[03-Feb-2021 09:39:02 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[03-Feb-2021 09:39:02 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[03-Feb-2021 09:39:02 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[03-Feb-2021 09:39:02 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[03-Feb-2021 09:39:02 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[03-Feb-2021 09:39:02 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[03-Feb-2021 11:08:21 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[03-Feb-2021 11:08:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[03-Feb-2021 11:08:28 America/Chicago] PHP Warning:  A non-numeric value encountered in /home2/fabio/cehuanuco.org.pe/intranet/historialpagos.php on line 133
+[03-Feb-2021 11:08:28 America/Chicago] PHP Warning:  A non-numeric value encountered in /home2/fabio/cehuanuco.org.pe/intranet/historialpagos.php on line 135
+[04-Feb-2021 08:02:33 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[04-Feb-2021 08:02:33 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[04-Feb-2021 08:02:33 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[04-Feb-2021 08:02:33 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[04-Feb-2021 08:02:33 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[04-Feb-2021 08:02:33 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[04-Feb-2021 08:02:33 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[05-Feb-2021 10:09:25 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[05-Feb-2021 10:09:25 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[05-Feb-2021 10:09:25 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[05-Feb-2021 10:09:25 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[05-Feb-2021 10:09:25 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[05-Feb-2021 10:09:25 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[05-Feb-2021 10:09:25 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[05-Feb-2021 10:09:51 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[05-Feb-2021 10:09:51 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[05-Feb-2021 10:09:51 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[05-Feb-2021 10:09:51 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[05-Feb-2021 10:09:51 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[05-Feb-2021 10:09:51 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[05-Feb-2021 10:09:51 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[05-Feb-2021 10:10:58 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[05-Feb-2021 10:10:58 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[05-Feb-2021 10:10:58 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[05-Feb-2021 10:10:58 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[05-Feb-2021 10:10:58 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[05-Feb-2021 10:10:58 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[05-Feb-2021 10:10:58 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[12-Feb-2021 09:25:10 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[12-Feb-2021 09:25:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[13-Feb-2021 17:29:46 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[13-Feb-2021 17:29:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[17-Feb-2021 08:48:09 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[17-Feb-2021 08:48:09 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[17-Feb-2021 08:48:09 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[17-Feb-2021 08:48:09 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[17-Feb-2021 08:48:09 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[17-Feb-2021 08:48:09 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[17-Feb-2021 08:48:09 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[17-Feb-2021 14:32:35 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[17-Feb-2021 14:32:35 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[17-Feb-2021 14:32:35 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[17-Feb-2021 14:32:35 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[17-Feb-2021 14:32:36 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[17-Feb-2021 14:32:36 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[17-Feb-2021 14:32:36 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[17-Feb-2021 14:35:25 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[17-Feb-2021 14:35:25 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[17-Feb-2021 14:35:25 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[17-Feb-2021 14:35:25 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[17-Feb-2021 14:35:25 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[17-Feb-2021 14:35:25 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[17-Feb-2021 14:35:25 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[17-Feb-2021 14:58:12 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[17-Feb-2021 14:58:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[17-Feb-2021 16:25:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:436) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 440
+[17-Feb-2021 16:34:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:436) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 440
+[17-Feb-2021 18:10:10 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[17-Feb-2021 18:10:10 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[17-Feb-2021 18:10:10 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[17-Feb-2021 18:10:10 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[17-Feb-2021 18:10:10 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[17-Feb-2021 18:10:10 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[17-Feb-2021 18:10:10 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[18-Feb-2021 09:25:20 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[18-Feb-2021 09:25:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[18-Feb-2021 10:02:19 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[18-Feb-2021 10:02:19 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[18-Feb-2021 10:02:19 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[18-Feb-2021 10:02:19 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[18-Feb-2021 10:02:19 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[18-Feb-2021 10:02:19 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[18-Feb-2021 10:02:19 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[01-Mar-2021 09:51:38 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[01-Mar-2021 09:51:38 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[01-Mar-2021 09:51:38 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[01-Mar-2021 09:51:38 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[01-Mar-2021 09:51:38 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[01-Mar-2021 09:51:38 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[01-Mar-2021 09:51:38 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[03-Mar-2021 13:27:54 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[03-Mar-2021 13:27:54 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[03-Mar-2021 13:27:54 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[03-Mar-2021 13:27:54 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[03-Mar-2021 13:27:55 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[03-Mar-2021 13:27:55 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[03-Mar-2021 13:27:55 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[03-Mar-2021 13:33:38 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[03-Mar-2021 13:33:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[05-Mar-2021 10:19:36 America/Chicago] PHP Warning:  file_get_contents(http://www.munihuanuco.gob.pe/intranetmunihco/wspide.php?numdoc=61103027&amp;m=d): failed to open stream: HTTP request failed! in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 6
+[15-Mar-2021 11:44:14 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[15-Mar-2021 11:44:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[20-Mar-2021 16:01:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:436) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 440
+[22-Mar-2021 11:14:36 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[22-Mar-2021 11:14:36 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[22-Mar-2021 11:14:36 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[22-Mar-2021 11:14:36 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[22-Mar-2021 11:14:36 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[22-Mar-2021 11:14:36 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[22-Mar-2021 11:14:36 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[22-Mar-2021 11:25:57 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[22-Mar-2021 11:25:57 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[22-Mar-2021 11:25:57 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[22-Mar-2021 11:25:57 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[22-Mar-2021 11:25:57 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[22-Mar-2021 11:25:57 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[22-Mar-2021 11:25:57 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[22-Mar-2021 11:28:58 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[22-Mar-2021 11:28:58 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[22-Mar-2021 11:28:58 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[22-Mar-2021 11:28:58 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[22-Mar-2021 11:28:58 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[22-Mar-2021 11:28:58 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[22-Mar-2021 11:28:58 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[22-Mar-2021 11:29:33 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[22-Mar-2021 11:29:33 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[22-Mar-2021 11:29:33 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[22-Mar-2021 11:29:33 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[22-Mar-2021 11:29:33 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[22-Mar-2021 11:29:33 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[22-Mar-2021 11:29:33 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[30-Mar-2021 10:15:05 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[30-Mar-2021 10:15:05 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[30-Mar-2021 10:15:05 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[30-Mar-2021 10:15:05 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[30-Mar-2021 10:15:06 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[30-Mar-2021 10:15:06 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[30-Mar-2021 10:15:07 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[30-Mar-2021 10:15:07 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[30-Mar-2021 10:15:07 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[30-Mar-2021 10:15:07 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[30-Mar-2021 10:15:07 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[30-Mar-2021 10:15:07 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[30-Mar-2021 10:15:08 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[30-Mar-2021 10:15:08 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[07-Apr-2021 10:07:13 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[07-Apr-2021 10:07:13 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[07-Apr-2021 10:07:13 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[07-Apr-2021 10:07:13 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[07-Apr-2021 10:07:14 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[07-Apr-2021 10:07:14 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[07-Apr-2021 10:07:15 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[07-Apr-2021 10:07:25 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[07-Apr-2021 10:07:25 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[07-Apr-2021 10:07:25 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[07-Apr-2021 10:07:25 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[07-Apr-2021 10:07:25 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[07-Apr-2021 10:07:25 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[07-Apr-2021 10:07:25 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[07-Apr-2021 10:07:38 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[07-Apr-2021 10:07:38 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[07-Apr-2021 10:07:38 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[07-Apr-2021 10:07:38 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[07-Apr-2021 10:07:38 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[07-Apr-2021 10:07:38 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[07-Apr-2021 10:07:38 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[07-Apr-2021 12:00:26 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[07-Apr-2021 12:00:26 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[07-Apr-2021 12:00:26 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[07-Apr-2021 12:00:26 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[07-Apr-2021 12:00:26 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[07-Apr-2021 12:00:26 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[07-Apr-2021 12:00:27 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[08-Apr-2021 11:57:46 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[08-Apr-2021 11:57:46 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[08-Apr-2021 11:57:46 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[08-Apr-2021 11:57:46 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[08-Apr-2021 11:57:47 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[08-Apr-2021 11:57:47 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[08-Apr-2021 11:57:47 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[08-Apr-2021 13:21:18 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[08-Apr-2021 13:21:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[13-Apr-2021 19:26:57 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[13-Apr-2021 19:26:57 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[13-Apr-2021 19:26:57 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[13-Apr-2021 19:26:57 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[13-Apr-2021 19:26:58 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[13-Apr-2021 19:26:58 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[13-Apr-2021 19:26:58 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[15-Apr-2021 12:34:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:436) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 440
+[15-Apr-2021 12:34:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:436) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 440
+[24-May-2021 10:41:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:436) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 440
+[10-Jun-2021 09:28:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:436) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 440
+[10-Jun-2021 14:17:32 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[10-Jun-2021 14:17:32 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[10-Jun-2021 14:17:32 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[10-Jun-2021 14:17:32 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[10-Jun-2021 14:17:32 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[10-Jun-2021 14:17:32 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[10-Jun-2021 14:17:32 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[10-Jun-2021 14:21:12 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[10-Jun-2021 14:21:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[22-Jun-2021 10:45:19 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[22-Jun-2021 10:45:19 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16893
+[22-Jun-2021 10:45:19 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16896
+[22-Jun-2021 10:45:19 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[22-Jun-2021 10:45:19 America/Chicago] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_images.php on line 318
+[22-Jun-2021 10:45:19 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[22-Jun-2021 10:45:19 America/Chicago] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 16542
+[13-Jul-2021 11:37:57 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[13-Jul-2021 11:37:57 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[13-Jul-2021 11:38:24 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[13-Jul-2021 11:38:24 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[19-Jul-2021 12:50:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:436) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 440
+[04-Aug-2021 10:05:16 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[04-Aug-2021 10:05:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[11-Aug-2021 13:01:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:436) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 440
+[27-Aug-2021 10:54:54 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[27-Aug-2021 10:54:55 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[28-Aug-2021 03:46:26 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[28-Aug-2021 03:46:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[28-Aug-2021 03:46:34 America/Chicago] PHP Warning:  A non-numeric value encountered in /home2/fabio/cehuanuco.org.pe/intranet/historialpagos.php on line 133
+[28-Aug-2021 03:46:34 America/Chicago] PHP Warning:  A non-numeric value encountered in /home2/fabio/cehuanuco.org.pe/intranet/historialpagos.php on line 135
+[31-Aug-2021 10:09:10 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[31-Aug-2021 10:09:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[01-Sep-2021 20:14:33 America/Chicago] PHP Warning:  A non-numeric value encountered in /home2/fabio/cehuanuco.org.pe/intranet/historialpagos.php on line 133
+[01-Sep-2021 20:14:33 America/Chicago] PHP Warning:  A non-numeric value encountered in /home2/fabio/cehuanuco.org.pe/intranet/historialpagos.php on line 135
+[09-Sep-2021 09:13:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php:436) in /home2/fabio/cehuanuco.org.pe/intranet/auxiliar.php on line 440
+[14-Sep-2021 11:34:28 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 2
+[14-Sep-2021 11:34:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php:1) in /home2/fabio/cehuanuco.org.pe/intranet/comunicadocolegiado.php on line 7
+[13-Oct-2021 09:33:25 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[13-Oct-2021 09:33:25 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[16-Oct-2021 13:08:45 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[16-Oct-2021 13:08:46 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
+[19-Oct-2021 10:28:15 America/Chicago] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/tcpdf.php on line 17778
+[19-Oct-2021 10:28:15 America/Chicago] PHP Warning:  chr() expects parameter 1 to be int, string given in /home2/fabio/cehuanuco.org.pe/intranet/lib/tcpdf/include/tcpdf_fonts.php on line 1671
